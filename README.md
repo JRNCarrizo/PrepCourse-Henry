@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio de prueba
+Este proyecto es una pueba de como clonar y modificar el repositorio
